@@ -2,7 +2,7 @@
 Learn about history with a google themed interface
 
 Video Demo
-![](https://youtu.be/I1kPXAtivOs)
+![](https://www.youtube.com/watch?v=I1kPXAtivOs&feature=youtu.be)
 
 ![All google themed CSS](https://github.com/davidagustin/Historigal/blob/master/images/Screen%20Shot%202019-01-31%20at%201.11.36%20AM.png)
 
