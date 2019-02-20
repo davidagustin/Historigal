@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-<img src="https://imgur.com/a/rjOrlrb" alt="Historigal" width="200"/>
+<img style="-webkit-user-select: none;cursor: zoom-in;" src="https://i.imgur.com/zU3F2wi.png" width="454" height="148">
 <br>
 Historigal
 <br>
