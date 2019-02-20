@@ -14,7 +14,7 @@ Historigal
   <a href="#license">License</a>
 </p>
 
-<div style="text-align:center"><img src ="https://media.giphy.com/media/fCU05bPSg1Yv92bYZ6/giphy.gif" /></div>
+<img align="center" src ="https://media.giphy.com/media/fCU05bPSg1Yv92bYZ6/giphy.gif" />
 
 
 ## Key Features
@@ -48,13 +48,3 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## License
 MIT
-
-
-Video Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I1kPXAtivOs/0.jpg)](https://www.youtube.com/watch?v=I1kPXAtivOs)
-
-![All google themed CSS](https://github.com/davidagustin/Historigal/blob/master/images/Screen%20Shot%202019-01-31%20at%201.11.36%20AM.png)
-
-![With Search and Sticky like google](https://github.com/davidagustin/Historigal/blob/master/images/Screen%20Shot%202019-01-31%20at%201.11.41%20AM.png)
-
-![Pagination is implemented](https://github.com/davidagustin/Historigal/blob/master/images/Screen%20Shot%202019-01-31%20at%201.11.42%20AM.png)
