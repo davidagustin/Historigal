@@ -1,3 +1,11 @@
+<h1 align="center">
+<br>
+<img src="https://imgur.com/a/rjOrlrb" alt="Historigal" width="200"></a>
+<br>
+Historigal
+<br>
+</h1>
+
 # Historigal
 Learn about history with a google themed interface
 

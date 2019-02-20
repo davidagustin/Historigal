@@ -11,11 +11,19 @@ export default class App extends React.Component {
             inputBarText: "",
         };
 
+        this.resetInputBar = this.resetInputBar.bind(this);
         this.handleChange = this.handleChange.bind(this);
         this.changeView = this.changeView.bind(this);
     }
 
+    resetInputBar(){
+        this.setState({
+            inputBarText: ""
+        })
+    }
+
     handleChange(e) {
+        console.log(e);
         e.preventDefault();
         const textInput = {};
         textInput[e.target.name] = e.target.value;
@@ -39,7 +47,7 @@ export default class App extends React.Component {
             <div>
                 {this.state.view === 'home'
                     ? <Home changeView={this.changeView} handleChange={this.handleChange} inputBarText={this.state.inputBarText}/>
-                    : <Search changeView={this.changeView} handleChange={this.handleChange} inputBarText={this.state.inputBarText}/>
+                    : <Search resetInputBar={this.resetInputBar} changeView={this.changeView} handleChange={this.handleChange} inputBarText={this.state.inputBarText}/>
                 }
             </div>
         )
