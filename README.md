@@ -1,10 +1,9 @@
 <h1 align="center">
 <br>
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://i.imgur.com/zU3F2wi.png" width="454" height="148">
-<br>
-Historigal
-<br>
 </h1>
+
+<h4 align="center">Learn about history with a google themed interface.</h4>
 
 # Historigal
 Learn about history with a google themed interface
