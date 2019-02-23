@@ -15,7 +15,7 @@ Historigal
 </p>
 
 <p align='center'>
-    <a href="https://s3-us-west-1.amazonaws.com/heroku-david-agustin/Historigal.gif"><img src="https://s3-us-west-1.amazonaws.com/heroku-david-agustin/Historigal.gif" /> </a>
+    <img src="https://s3-us-west-1.amazonaws.com/heroku-david-agustin/Historigal.gif" />
 </p> 
 ## Key Features
 
