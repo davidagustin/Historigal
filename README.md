@@ -14,9 +14,8 @@ Historigal
   <a href="#license">License</a>
 </p>
 
-
 <p align='center'>
-    <a href="https://imgur.com/fAPhsWW"><img src="https://i.imgur.com/fAPhsWW.gif" title="source: imgur.com" /></a>
+    <a href="https://s3-us-west-1.amazonaws.com/heroku-david-agustin/Historigal.gif"><img src="https://s3-us-west-1.amazonaws.com/heroku-david-agustin/Historigal.gif" /> </a>
 </p> 
 ## Key Features
 
