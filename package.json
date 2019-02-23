@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "react-dev": "webpack -d --watch",
-    "start": "json-server ./data/db.json --port 3000 -d 2000 --static ./client/dist/"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
