@@ -14,7 +14,10 @@ Historigal
   <a href="#license">License</a>
 </p>
 
-<img align="center" src ="https://media.giphy.com/media/fCU05bPSg1Yv92bYZ6/giphy.gif" />
+
+<p align='center'>
+    <img src ="https://media.giphy.com/media/fCU05bPSg1Yv92bYZ6/giphy.gif" />
+</p>
 
 
 ## Key Features
