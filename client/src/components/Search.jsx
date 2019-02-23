@@ -14,7 +14,7 @@ export default class Home extends Component {
       searchResult: [],
       inputBarText: "",
       searchQuery: "",
-      emptySearch: true,
+      emptySearch: false,
       currentPage: 0
     };
 
