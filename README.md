@@ -16,7 +16,7 @@ Historigal
 
 
 <p align='center'>
-    <a href="https://imgur.com/SI7lWG8"><img src="https://i.imgur.com/SI7lWG8.gif" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/fAPhsWW"><img src="https://i.imgur.com/fAPhsWW.gif" title="source: imgur.com" /></a>
 </p> 
 ## Key Features
 
