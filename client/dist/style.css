@@ -7,18 +7,18 @@ ul {
 }
 
 ul.pagination {
-    margin-top: 15px;
     display: flex;
     flex-direction: row;
+    margin-top: 15px;
 }
 
 input {
-    padding: 10px;
-    margin: 10px;
-    height: 20px;
-    width: 500px;
     border: 1px solid #eaeaea;
+    height: 20px;
+    margin: 10px;
     outline: none;
+    padding: 10px;
+    width: 500px;
 }
 
 input:hover {
@@ -30,46 +30,46 @@ input:focus {
 }
 
 input[type="submit"] {
-    border-radius: 2px;
     background: #f2f2f2;
     border: 1px solid #f2f2f2;
+    border-radius: 2px;
     color: #757575;
     cursor: default;
     font-size: 14px;
     font-weight: bold;
-    width: 100px;
-    padding: 0 16px;
     height: 36px;
+    padding: 0 16px;
+    width: 100px;
 }
 
 input[type="submit"]:hover {
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     background: #f8f8f8;
     border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     color: #222;
 }
 
 .inputBarInSearch {
-    font: 16px arial, sans-serif;
     border-radius: 40px;
+    font: 16px arial, sans-serif;
     width: 640px;
 }
 
 .logoInHome {
     display: block;
+    height: 100px;
     margin-left: auto;
     margin-right: auto;
-    height: 100px;
-    width: 275px;
     margin-top: 200px;
+    width: 275px;
 }
 
 .logoInSearch {
-    padding-right: 30px;
-    padding-left: 30px;
-    padding-top: 19px;
     display: block;
     height: 36px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 19px;
     width: 97px;
 }
 
@@ -78,66 +78,66 @@ input[type="submit"]:hover {
 }
 
 .itemDescription {
-    line-height: 18.2px;
     font-family: 'Roboto', arial, sans-serif;
     font-weight: 400;
-    text-align: left;
+    line-height: 18.2px;
     max-width: 575px;
+    text-align: left;
     word-wrap: break-word;
 }
 
 .searchInHome {
+    align-items: center;
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
 }
 
 .searchInSearch {
-    padding-bottom: 30px;
+    align-items: flex-start;
+    background-color: white;
+    border-bottom: rgb(235, 235, 235) solid 1px;
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
-    border-bottom: rgb(235, 235, 235) solid 1px;
-    background-color: white;
+    padding-bottom: 30px;
     position: sticky !important;
     top: 0px !important;
 }
 
 .form {
-    padding-top: 30px;
+    align-items: center;
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
+    padding-top: 30px;
 }
 
 .inputBarHome {
     background: rgb(241, 243, 244);
     border-radius: 40px;
-    width: 563px;
     height: 46px;
+    width: 563px;
 }
 
 .itemContainer {
-    padding-top: 33px;
     padding-left: 170px;
+    padding-top: 33px;
 }
 
 .itemGreenText {
+    color: #006621;
     cursor: pointer;
     font-size: 14px;
-    padding-top: 1px;
-    color: #006621;
     font-style: normal;
+    padding-top: 1px;
 }
 
 .titleSearchText {
-    font-family: arial, sans-serif;
     color: #1a0dab;
+    display: inline-block;
+    font-family: arial, sans-serif;
     font-size: 18px;
     font-weight: normal;
-    display: inline-block;
 
 }
 
@@ -147,20 +147,20 @@ input[type="submit"]:hover {
 }
 
 .totalItems {
-    margin-right: 919px;
-    margin-top: 16px;
-    margin-left: 165px;
+    color: rgb(128, 128, 128);
     font-family: arial, sans-serif;
     font-size: small;
-    color: rgb(128, 128, 128);
+    margin-left: 165px;
+    margin-right: 919px;
+    margin-top: 16px;
 }
 
 .emptySearchReturn {
-    padding-left: 167px;
-    padding-top: 72px;
+    font-family: arial, sans-serif;
     font-size: medium;
     font-weight: normal;
-    font-family: arial, sans-serif;
+    padding-left: 167px;
+    padding-top: 72px;
 }
 
 .emptySearchReturn li {
@@ -168,18 +168,18 @@ input[type="submit"]:hover {
 }
 
 .logoInSearchBottom {
-    padding-right: 1127px;
-    padding-left: 400px;
-    height: 36px;
-    width: 97px;
-    margin-top: 200px;
     display: flex;
+    height: 36px;
+    margin-top: 200px;
+    padding-left: 400px;
+    padding-right: 1127px;
+    width: 97px;
 }
 
 .greyFilling {
+    background-color: rgb(242, 242, 242);
     border-top: rgb(228, 228, 228) 1px solid;
     display: block;
-    background-color: rgb(242, 242, 242);
     height: 67px;
     width: auto;
 }
@@ -210,21 +210,21 @@ li:hover {
 }
 
 li.active {
-    cursor: default!important;
-    text-decoration: initial!important;
     color: black;
+    cursor: default !important;
+    text-decoration: initial !important;
 }
 
 li.active:hover {
-    cursor: default!important;
-    text-decoration: initial!important;
+    cursor: default !important;
+    text-decoration: initial !important;
 }
 
 .pagination {
-    display: block;
-    white-space: nowrap;
     color: #4285f4;
+    display: block;
     font-weight: normal;
+    margin-bottom: 30px;
     margin-left: 280px;
-    margin-bottom: 30px
+    white-space: nowrap
 }
